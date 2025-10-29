@@ -1,5 +1,11 @@
 # utils-AI
 
+## Introduction
+
+Record and organize some useful tools and modules in AI research to facilitate future research and engineering practice.
+
+Just for fun ! ! !
+
 ## Quick Start
 
 ### Test tools
@@ -14,3 +20,4 @@ python -m tests.*****
 The following features are planned to be supported soon：
 
 - [ ] Support for **Transformer**, **MLA**, and **Mamba** architectures
+- [ ] Support for some quantization strategies and platforms
